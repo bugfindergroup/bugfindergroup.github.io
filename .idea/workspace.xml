@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="x">
+    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575829971495</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="x">
+      <created>1575831465650</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1575831465650</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,21 +379,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="520" y="149" width="936" height="807" key="CommitChangelistDialog2" timestamp="1575830103013">
+    <state x="520" y="149" width="936" height="807" key="CommitChangelistDialog2" timestamp="1575831465570">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="520" y="149" width="936" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575830103013" />
+    <state x="520" y="149" width="936" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575831465570" />
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1575829330404">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575829330404" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575830108602">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575831470726">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575830108602" />
-    <state x="87" y="236" width="869" height="592" key="find.popup" timestamp="1575831441715">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575831470726" />
+    <state x="87" y="236" width="869" height="592" key="find.popup" timestamp="1575833314362">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="87" y="236" width="869" height="592" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575831441715" />
+    <state x="87" y="236" width="869" height="592" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575833314362" />
   </component>
 </project>
