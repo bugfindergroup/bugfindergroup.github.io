@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -403,17 +432,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1595944090163">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1595944146436">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1595944090163" />
-    <state x="190" y="86" width="1036" height="629" key="DiffContextDialog" timestamp="1595944087815">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1595944146436" />
+    <state x="190" y="86" width="1036" height="629" key="DiffContextDialog" timestamp="1595944323943">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="190" y="86" width="1036" height="629" key="DiffContextDialog/70.27.1296.741@70.27.1296.741" timestamp="1595944087815" />
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595944095587">
+    <state x="190" y="86" width="1036" height="629" key="DiffContextDialog/70.27.1296.741@70.27.1296.741" timestamp="1595944323943" />
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595944161882">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1595944095587" />
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1595944161882" />
   </component>
 </project>
