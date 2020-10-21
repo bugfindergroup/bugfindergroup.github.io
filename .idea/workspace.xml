@@ -1,40 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="">
+    <list default="true" id="f6b46365-8c47-4a7d-8097-e1af6df15885" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bugfindergroup.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylish-portfolio.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylish-portfolio.speed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylish-portfolio.speed.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fund.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google028b782fe528d19a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img-speed/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-callout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-masthead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stylish-portfolio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stylish-portfolio.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stylish-portfolio.speed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stylish-portfolio.speed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw.index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_callout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_services.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/stylish-portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/share.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speed.index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,410 +129,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UOjebsInDPED9it8O3boadGhhK" />
+  <component name="ProjectId" id="1jAJ7KKL1xBloE0wrJhAKSkVxpj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../denkakrobat.de" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="6dd42787-ebc7-4c48-b13b-a565b2162053" name="Default Changelist" comment="" />
-      <created>1575234631315</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1575234631315</updated>
-    </task>
-    <task id="LOCAL-00015" summary="x">
-      <created>1575585315992</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1575585315992</updated>
-    </task>
-    <task id="LOCAL-00016" summary="x">
-      <created>1575585751907</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1575585751907</updated>
-    </task>
-    <task id="LOCAL-00017" summary="x">
-      <created>1575586003740</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1575586003740</updated>
-    </task>
-    <task id="LOCAL-00018" summary="x">
-      <created>1575586082621</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1575586082621</updated>
-    </task>
-    <task id="LOCAL-00019" summary="x">
-      <created>1575586154007</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1575586154007</updated>
-    </task>
-    <task id="LOCAL-00020" summary="x">
-      <created>1575588708095</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1575588708095</updated>
-    </task>
-    <task id="LOCAL-00021" summary="x">
-      <created>1575820513839</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1575820513839</updated>
-    </task>
-    <task id="LOCAL-00022" summary="x">
-      <created>1575821223232</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1575821223232</updated>
-    </task>
-    <task id="LOCAL-00023" summary="x">
-      <created>1575822340152</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1575822340152</updated>
-    </task>
-    <task id="LOCAL-00024" summary="x">
-      <created>1575824022699</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1575824022699</updated>
-    </task>
-    <task id="LOCAL-00025" summary="x">
-      <created>1575824123948</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1575824123948</updated>
-    </task>
-    <task id="LOCAL-00026" summary="x">
-      <created>1575824681640</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1575824681640</updated>
-    </task>
-    <task id="LOCAL-00027" summary="x">
-      <created>1575827233094</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1575827233094</updated>
-    </task>
-    <task id="LOCAL-00028" summary="x">
-      <created>1575827637254</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1575827637255</updated>
-    </task>
-    <task id="LOCAL-00029" summary="x">
-      <created>1575827695598</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1575827695598</updated>
-    </task>
-    <task id="LOCAL-00030" summary="x">
-      <created>1575827783604</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1575827783604</updated>
-    </task>
-    <task id="LOCAL-00031" summary="x">
-      <created>1575828744633</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1575828744633</updated>
-    </task>
-    <task id="LOCAL-00032" summary="x">
-      <created>1575829004247</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829004247</updated>
-    </task>
-    <task id="LOCAL-00033" summary="x">
-      <created>1575829110233</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829110233</updated>
-    </task>
-    <task id="LOCAL-00034" summary="x">
-      <created>1575829225883</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829225883</updated>
-    </task>
-    <task id="LOCAL-00035" summary="x">
-      <created>1575829339708</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829339708</updated>
-    </task>
-    <task id="LOCAL-00036" summary="x">
-      <created>1575829365292</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829365292</updated>
-    </task>
-    <task id="LOCAL-00037" summary="x">
-      <created>1575829461476</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829461476</updated>
-    </task>
-    <task id="LOCAL-00038" summary="x">
-      <created>1575829718435</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829718435</updated>
-    </task>
-    <task id="LOCAL-00039" summary="x">
-      <created>1575829790569</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829790569</updated>
-    </task>
-    <task id="LOCAL-00040" summary="x">
-      <created>1575829881558</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829881558</updated>
-    </task>
-    <task id="LOCAL-00041" summary="x">
-      <created>1575829919187</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829919187</updated>
-    </task>
-    <task id="LOCAL-00042" summary="x">
-      <created>1575829971495</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1575829971495</updated>
-    </task>
-    <task id="LOCAL-00043" summary="x">
-      <created>1575831465650</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1575831465650</updated>
-    </task>
-    <task id="LOCAL-00044" summary="x">
-      <created>1575833325855</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1575833325855</updated>
-    </task>
-    <task id="LOCAL-00045" summary="x">
-      <created>1575833542246</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1575833542247</updated>
-    </task>
-    <task id="LOCAL-00046" summary="x">
-      <created>1575833660885</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1575833660885</updated>
-    </task>
-    <task id="LOCAL-00047" summary="x">
-      <created>1575834432164</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1575834432164</updated>
-    </task>
-    <task id="LOCAL-00048" summary="x">
-      <created>1575834694061</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1575834694061</updated>
-    </task>
-    <task id="LOCAL-00049" summary="x">
-      <created>1575834852419</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1575834852419</updated>
-    </task>
-    <task id="LOCAL-00050" summary="x">
-      <created>1575835004419</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1575835004420</updated>
-    </task>
-    <task id="LOCAL-00051" summary="x">
-      <created>1575835525840</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1575835525841</updated>
-    </task>
-    <task id="LOCAL-00052" summary="x">
-      <created>1575835599664</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1575835599664</updated>
-    </task>
-    <task id="LOCAL-00053" summary="x">
-      <created>1575836109907</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1575836109907</updated>
-    </task>
-    <task id="LOCAL-00054" summary="x">
-      <created>1575837094887</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1575837094887</updated>
-    </task>
-    <task id="LOCAL-00055" summary="x">
-      <created>1575837121502</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1575837121502</updated>
-    </task>
-    <task id="LOCAL-00056" summary="x">
-      <created>1575838569559</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1575838569559</updated>
-    </task>
-    <task id="LOCAL-00057" summary="x">
-      <created>1575849330340</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1575849330340</updated>
-    </task>
-    <task id="LOCAL-00058" summary="x">
-      <created>1575849648946</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1575849648949</updated>
-    </task>
-    <task id="LOCAL-00059" summary="x">
-      <created>1575850007246</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1575850007246</updated>
-    </task>
-    <task id="LOCAL-00060" summary="x">
-      <created>1575851284918</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1575851284920</updated>
-    </task>
-    <task id="LOCAL-00061" summary="x">
-      <created>1575889156311</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1575889156312</updated>
-    </task>
-    <task id="LOCAL-00062" summary="x">
-      <created>1575890049389</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1575890049389</updated>
-    </task>
-    <task id="LOCAL-00063" summary="x">
-      <created>1575890581321</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1575890581322</updated>
-    </task>
-    <option name="localTasksCounter" value="64" />
-    <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="x" />
-    <option name="LAST_COMMIT_MESSAGE" value="x" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1598801705060">
-      <screen x="70" y="27" width="1296" height="741" />
-    </state>
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1598801705060" />
-    <state x="190" y="86" width="1036" height="629" key="DiffContextDialog" timestamp="1595944323943">
-      <screen x="70" y="27" width="1296" height="741" />
-    </state>
-    <state x="190" y="86" width="1036" height="629" key="DiffContextDialog/70.27.1296.741@70.27.1296.741" timestamp="1595944323943" />
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598801709440">
-      <screen x="70" y="27" width="1296" height="741" />
-    </state>
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1598801709440" />
-  </component>
 </project>
